@@ -3,7 +3,8 @@
 asdbfklasdbhag
 ljjm
 
-<img width="600" height="430" alt="image" src="https://github.com/user-attachments/assets/c6da15b7-ef06-49bd-a9ca-3b06dd75363f" />
+<img width="380" height="214" alt="image" src="https://github.com/user-attachments/assets/c546ec6c-004e-4003-9416-72325247b719" />
+
 
 **profil düzenleme**
 *ben python calisiyorum*
